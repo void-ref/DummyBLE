@@ -1,0 +1,16 @@
+**/.pio
+
+.vscode/*
+!.vscode/settings.json
+
+[Dd]ebug/
+[Rr]elease/
+[Bb]in/
+[Ll]og/
+compile_commands.json
+
+*.tmp
+*.log
+
+__pycache__
+*.pyc
